@@ -18,7 +18,7 @@ Slax Debian iso
 
 Run
 -
-    .\qemu-system-x86_64.exe -cdrom .\slax-64bit-9.8.0.iso  -m 2048
+    .\qemu-system-x86_64.exe -cdrom .\slax-64bit-9.8.0.iso -m 2048
  
  Snapshots
 -

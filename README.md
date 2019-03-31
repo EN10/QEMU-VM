@@ -27,7 +27,7 @@ Open Monitor:	Ctrl+Alt+2
     loadvm name
 
 Hardware Acceleration
-
+-
 *    [Download](https://github.com/intel/haxm/releases)
 
     .\qemu-system-x86_64.exe -cdrom .\slax-64bit-9.8.0.iso -hda .\slax.img -m 2048 -accel hax

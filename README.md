@@ -1,6 +1,10 @@
 # QEMU VM
 
-Running Debian on Windows without Admin rights
+Running Debian on Windows without Admin rights    
+
+Small: 
+* QEMU ~10.4 MB
+* SLAX ~255 MB
 
 Download QEMU
 -

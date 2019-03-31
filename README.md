@@ -10,7 +10,7 @@ Download QEMU
 
 Slax Debian iso
 -
-[Slax](https://www.slax.org/#purchase)
+[Download Slax](https://www.slax.org/#purchase)
 
 Run
 -
